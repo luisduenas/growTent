@@ -1,1 +1,3 @@
 # Grow Tent
+
+Arduino controlled
